@@ -2,9 +2,7 @@
 .form{
   max-width: 385px;
   }
-  .reservation__form{
-  margin: 0 auto 120px;
-  }
+  
   .form__fieldset{
     margin: 0;
     border: 0;
