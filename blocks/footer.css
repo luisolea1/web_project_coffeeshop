@@ -73,6 +73,10 @@ font-size: 16px;
 line-height: 20px;
 }
 
+.footer__social-link:hover{
+ color: #C1C1C1 ;
+}
+
 .footer__copyright{
 font-family: "Inter";
 font-style: normal;
